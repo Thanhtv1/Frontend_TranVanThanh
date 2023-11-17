@@ -5,7 +5,7 @@ interface Props {
   styleString?: string;
 }
 const ContentButton: React.FC<Props> = ({ name, styleString }) => {
-  return <button className={`min-w-[210px] py-2 border-b-4 text-white ${styleString}`}>{name}</button>
+  return <button className={`min-w-[215px] py-2 border-b-[3px] text-white text-sm ${styleString}`}>{name}</button>
 };
 
 export default ContentButton;

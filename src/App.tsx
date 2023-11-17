@@ -5,7 +5,7 @@ import MainContent from "./components/MainContent";
 
 function App() {
   return (
-    <div className="App overflow-y-hidden h-screen w-screen flex flex-col ">
+    <div className="App overflow-hidden h-screen w-screen flex flex-col ">
       <Header />
       <MainContent />
       <Footer />

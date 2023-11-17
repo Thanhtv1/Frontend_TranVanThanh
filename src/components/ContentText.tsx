@@ -3,7 +3,7 @@ import React from "react";
 const ContentText: React.FC = () => {
   return (
     <div className="w-full">
-      <div className="max-w-3xl pt-10 pb-6 flex mx-auto justify-center text-gray-500 text-base text-left">
+      <div className="max-w-3xl pt-11 pb-6 flex mx-auto justify-center text-gray-500 text-base text-left">
         <p>
           A child asked his father, "How were people born?" So his father said,
           "Adam and Eve made babies, then their babies became adults and made

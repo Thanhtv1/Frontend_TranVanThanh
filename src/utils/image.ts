@@ -1,1 +1,2 @@
-export const imageLogoSample = "https://static.vecteezy.com/system/resources/previews/000/659/781/original/vector-beautiful-flower-icon.jpg"
+export const logoImage = `${window.location.origin}/logo.png`;
+export const avatarImage = `${window.location.origin}/avatar.png`;
